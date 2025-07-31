@@ -50,7 +50,7 @@ After training, the script displays:
 
 3. Run the script:
    ```bash
-   python script_name.py
+   python main1.py
 
 4. Enter passenger details when prompted to see the survival prediction.
 
