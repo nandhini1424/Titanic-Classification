@@ -68,6 +68,7 @@ This project uses linear regression for a classification task (survived or not).
 For better accuracy, you could replace it with a classifier like Logistic Regression, Random Forest, or XGBoost.
 The script drops rows with missing data, which may reduce the dataset size.
 
+## ✏️ Author
 
-
+Built and documented by [nandhini1424](https://github.com/nandhini1424)
 
